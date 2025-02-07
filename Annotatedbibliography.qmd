@@ -1,0 +1,20 @@
+---
+title: "Annotated Bibliography"
+format: html
+---
+
+@couper2008
+
+-   Summary: In this article, Couper investigates if the sensitivity of survey questions plays a part in the individuals' willingness to participate in the survey. He used a web-based vignette experiment to randomly assign respondents to vignettes using questions with different levels of sensitivity. The study explores risk and subjective risk, and discovered that the participants' perception of risk plays a role in their decision to participate.
+
+-   Reliability: The study is funded and published by the National Institutes of Health and the findings align with research done prior on this topic. As a result, the study appears to be reliable.
+
+-   Missing information: This study is focused on hypothetical survey participation instead of real-world behaviors so it could result in different behaviors from participants in actual surveys. It also could be helpful to look into subjective risk and why some participants may view risk differently than others.
+
+@ong2000
+
+-   Summary: In this study Ong and Wiess (2000), investigated how anonymity and normalization affect self-reported responses to sensitive questions. They specifically focused on cheating among college students. The studies findings support their ideas that people are more likely to disclose. sensitive information when their identity is anonymous.
+
+-   Reliability: The authors (Ong and Weiss) are both affiliated with well-known institutions (University of Southern California and California State University, Los Angeles). This article was published in the Journal of Applied Social Psychology which is a peer-reviewed journal. These factors add credibility and reliability to their work.
+
+-   Missing information: It may be necessary to understand psychology better to understand that while it was assumed some people were lying, they may have genuinely viewed their behavior differently.
