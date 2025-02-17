@@ -1,0 +1,42 @@
+---
+title: "Article Outline"
+format: html
+---
+
+# 1. Abstract & Introduction
+
+The idea of sensitive questions in surveys is introduced, and why it is important to understand and how they effect the survey responses. Mentions the Total Survey Error (TSE) used in the article. A little more background on this method could be helpful to understand why TSE is important.
+
+# 2. Definitions of Sensitive Questions
+
+This section defines what is considered a sensitive questions in surveys and provides examples of these questions.
+
+# 3. Impact on Survey Errors
+
+-   Unit Nonresponse
+
+    -   Discusses how asking these questions might stop people from taking the survey in the first place because they don't want to answer these types of questions
+
+-   Wave Nonresponse
+
+    -   Discusses how these questions can make people less willing to participate you future surveys
+
+-   Item Nonresponse
+
+    -   Discusses how people might skip over certain questions if they contain sensitive subjects
+
+-   Measurement Error
+
+    -   Discusses how these questions can cause people to lie or give wrong answers
+
+# 4. Impact on Multiple Sources of Error
+
+This section discusses how these sensitive questions can cause more than one of these types of errors at once and this makes the survey less acurate.
+
+# 8. Strategies to Improve Answers to Sensitive Questions
+
+This section talks about ways these errors can be reduced and how these surveys can be designed differently to avoid these errors.
+
+# 9. Conclusions & Discussion 
+
+The conclusion and discussion section recaps the main points covered in the article, and suggests where further research is needed in the future.
