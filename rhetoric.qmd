@@ -1,0 +1,27 @@
+---
+title: "Rhetorical Analysis of 'Consequences of Asking Sensitive Questions in Surveys'"
+author:
+  - Lily Neneman
+date: "2025-02-20"
+format: html
+bibliography: references.bib
+csl: chicago-syllabus.csl
+---
+
+In this Rhetorical Analysis I will examine the rhetorical decisions and arguments made in "Consequences of Asking Sensitive Questions in Surveys".
+
+The authors focused on the impact that asking sensitive questions in surveys has on the accuracy of survey results. They clearly demonstrate how these questions lead to different types of errors, including people refusing to answer, skipping questions, or providing false answers. These examples help the reader to understand why survey design is so important to gathering reliable data and show the importance of careful survey design.
+
+An important rhetorical decision the authors made is defining what exactly a sensitive question is. They provide clear examples questions that people may not feel comfortable answering, including questions related to income, drug use, or political beliefs. By defining what actually is a sensitive question it helps the readers understand to the concept quickly. This appeals to a broader audience because they can relate and consider how they may feel if they were asked the questions.
+
+One key argument made by the authors is that sensitive questions in surveys reduce the accuracy. They discuss how these questions can cause many different types of error and even multiple errors at once. This argument is explained by the Total Survey Error (TSE) method. This method is used to help the authors argue this point by showing different ways that survey errors can arise. By using TSE, the authors are able to show that sensitive questions are a major source of the error. This demonstrates a large appeal to credibility for the authors. The others not only identify the issues caused by sensitive questions but also provide strategies that can be used to reduce these types of error. They suggest methods for redesigning surveys to reduce the impact of sensitive topics. Using their research and solid examples the authors are able to convey their argument and persuade readers why sensitive questions in surveys can have consequences.
+
+In conclusion, the authors successfully argue that sensitive questions and topics in surveys cause errors that diminish the validity of survey results. By discussing the TSE framework they are able to effectively convey their message that survey design is crucial to the data. Overall, the article is very persuasive but there is always room for more explanation of the methods used and more practical examples.
+
+## References 
+
+@yan_consequences_2021
+
+@couper_risk_2008
+
+@ong_impact_2000
