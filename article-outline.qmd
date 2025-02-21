@@ -37,6 +37,6 @@ This section discusses how these sensitive questions can cause more than one of 
 
 This section talks about ways these errors can be reduced and how these surveys can be designed differently to avoid these errors.
 
-# 9. Conclusions & Discussion 
+# 9. Conclusions & Discussion
 
 The conclusion and discussion section recaps the main points covered in the article, and suggests where further research is needed in the future.
